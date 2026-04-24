@@ -8,6 +8,11 @@ const LICENCIAS = {
     email: "cliente2@correo.com",
     activa: true  // ← suspendida, no puede entrar
   },
+  "ALITAS-2024-CCCC-3333": {
+    email: "cliente3@correo.com",
+    activa: true,
+    vence: "2026-12-31"
+  },
 };
 
 export default function handler(req, res) {
