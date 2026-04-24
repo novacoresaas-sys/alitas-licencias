@@ -6,7 +6,7 @@ const LICENCIAS = {
   },
   "ALITAS-2024-BBBB-2222": {
     email: "cliente2@correo.com",
-    activa: false  // ← suspendida, no puede entrar
+    activa: true  // ← suspendida, no puede entrar
   },
 };
 
